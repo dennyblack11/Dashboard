@@ -1,4 +1,4 @@
-import Sidebar from '../components/Static/Sidebar'
+
 
 const Body = () => {
   return (
